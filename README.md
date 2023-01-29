@@ -1,4 +1,4 @@
-# 📁 Documentação disponível do [Resgate](https://github.com/HyperScripts/Exports-Resgate-Samu-/wiki)
+# 📁 Documentação disponível do [Resgate](https://github.com/HyperScripts/Exports-Resgate-Samu-/wiki/Resgate-(Samu))
 
 ### ⚠ Caso não entenda de como utilizar as exportações disponíveis, abra um ticket em nossa loja para mais detalhes.
 
